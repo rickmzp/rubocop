@@ -2,6 +2,8 @@
 
 ## master (unreleased)
 
+* Allow the disabling of all cops from `config/rubocop.yml` with the `--disable-default-cops` option. ([@rickmzp][])
+
 ## 0.24.1 (03/07/2014)
 
 ### Bugs fixed
@@ -1014,3 +1016,4 @@
 [@ggilder]: https://github.com/ggilder
 [@salbertson]: https://github.com/salbertson
 [@camilleldn]: https://github.com/camilleldn
+[@rickmzp]: https://github.com/rickmzp
